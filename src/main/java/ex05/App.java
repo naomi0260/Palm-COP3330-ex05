@@ -1,5 +1,10 @@
 package ex05;
 
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solution
+ *  Copyright 2021 Naomi Palm
+ */
+
 import javax.swing.*;
 import java.util.Scanner;
 
